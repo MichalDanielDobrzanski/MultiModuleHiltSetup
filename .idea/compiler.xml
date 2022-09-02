@@ -3,7 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.8">
       <module name="multimodulehiltsetup.data" target="11" />
-      <module name="multimodulehiltsetup.data-lib" target="11" />
+      <module name="multimodulehiltsetup.data-dep" target="11" />
       <module name="multimodulehiltsetup.presentation" target="11" />
     </bytecodeTargetLevel>
   </component>

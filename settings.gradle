@@ -16,4 +16,4 @@ rootProject.name = "multimodulehiltsetup"
 include ':presentation'
 include ':data'
 include ':domain'
-include ':data-lib'
+include ':data-dep'
