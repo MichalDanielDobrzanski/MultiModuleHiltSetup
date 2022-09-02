@@ -1,0 +1,3 @@
+project.ext.versions = [
+        hilt: "2.43.2"
+]
